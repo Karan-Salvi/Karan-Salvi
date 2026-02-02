@@ -1,7 +1,7 @@
 <img src="banner_github.png" alt="GitHub Banner" width="100%" />
 
 # Hello World!, I'm Karan, a FullStack Web Developer 👋🏼:
- Full Stack MERN and Next.js Developer <br>  Currently exploring DevOps and Blockchain working as a web developer since 2022 <br>  Third-year Computer Engineering student<br>  Seeking internship opportunity to apply skills and gain experience
+ Full Stack MERN and Next.js Developer <br>  Currently exploring DevOps working as a web developer since 2022 <br>  Third-year Computer Engineering student<br>  Seeking internship opportunity to apply skills and gain experience
 
 
 
